@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family:Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.button1{
+    background: transparent;
+    color: white;
+    border: 3px solid white;
+    border-radius: 100%;
+    padding: 25px 25px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.button1 img{
+   height: 70px;
+}
+.button2{
+    background: transparent;
+    color: white;
+    border: 3px solid white;
+    border-radius: 100%;
+    padding: 25px 25px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.button2 img{
+    height: 70px;
+ }
+.button3{
+    background: transparent;
+    color: white;
+    border: 3px solid white;
+    border-radius: 100%;
+    padding: 25px 25px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.button3 img{
+    height: 70px;
+}
